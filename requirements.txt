@@ -1,0 +1,6 @@
+numpy>=2.0
+scipy>=1.11
+cvxpy>=1.5
+clarabel>=0.9
+fastapi>=0.115
+uvicorn>=0.30

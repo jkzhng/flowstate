@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8
+httpx>=0.27  # FastAPI TestClient
+pypower>=5.1  # reference solver for golden tests
